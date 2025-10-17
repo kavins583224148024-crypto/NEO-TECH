@@ -1,1 +1,4 @@
-
+a=float(input("Enter first value:"))
+b=float(input("Enter second value:"))
+result=a**2+b**2+2*a*b
+print("(a+b)^2=",result)
